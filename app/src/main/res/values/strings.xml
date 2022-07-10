@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DataUpdateDemo</string>
+    <string name="hint_movie_name">Enter movie name</string>
+    <string name="hint_movie_year">Enter movie year</string>
+    <string name="add_movie">Add Movie</string>
+</resources>
